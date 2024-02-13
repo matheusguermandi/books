@@ -1,4 +1,4 @@
-# This repository will be used to put together my books notes
+# This repository will be used to gather notes from the books I've been reading
 
 - [clean-architecture-notes](https://github.com/matheusguermandi/clean-architecture-notes)
 - [the-pragmatic-programmer-notes](https://github.com/matheusguermandi/the-pragmatic-programmer-notes)
